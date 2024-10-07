@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 I'm Saul Maldonado Navarro  
+🚀 **Computer Science Engineer and Full-Stack Developer**  
+🧑🏽‍💻 I am a full-stack web developer specializing in the design and development of web applications. My experience includes creating user interfaces, managing databases, and implementing functionalities using modern technologies. I am passionate about learning new tools and contributing to impactful projects.
 
-<!--
-**saulmn/saulmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚗 Currently coding at **@karbook**
 
-Here are some ideas to get you started:
+## 🛠️ **Tools**  
+TypeScript, HTML, CSS, React, Remix, Tailwind CSS, Node.js, Prisma, Drizzle ORM, MySQL, Git, Docker, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 **About me**  
+I am passionate about development and technology. I love seeing how technology helps people achieve their goals and optimize everyday tasks.
+
+I also enjoy mountain biking and hiking with my dogs 🐶.
